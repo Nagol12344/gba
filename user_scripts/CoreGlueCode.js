@@ -106,6 +106,7 @@ var games = {
 	"ty3":"Ty the Tasmanian Tiger 3 - Night of the Quinkan",
     "warioland4":"Wario Land 4",
     "wario_ware":"Wario Ware Inc",
+    "zelda":"The Legend of Zelda",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
     "zelda_minish":"The Legend of Zelda: The Minish Cap"
 };
