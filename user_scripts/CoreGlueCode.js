@@ -193,7 +193,7 @@ window.onload = function () {
     //Register GUI settings.
     registerGUISettings();
 	if (!games[location.hash.substr(1)]) {
-		alert("Invalid game request!");
+		alert("Invalid game request: "+location.hash.substr(1));
 		return;
 	}
 	//Download the BIOS:
