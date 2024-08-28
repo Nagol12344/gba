@@ -109,7 +109,8 @@ var games = {
     "zelda":"The Legend of Zelda",
     "zelda2":"The Legend of Zelda 2",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
-    "zelda_minish":"The Legend of Zelda: The Minish Cap"
+    "zelda_minish":"The Legend of Zelda: The Minish Cap",
+    "tekkena": "Tekken Advance"
 };
 var IodineGUI = {
     Iodine:null,
